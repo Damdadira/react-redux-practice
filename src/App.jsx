@@ -1,9 +1,9 @@
-import Exercise from './Exercise'
+// import Exercise from './Exercise'
 
 function App() {
   return (
     <>
-    <Exercise/>
+    {/* <Exercise/> */}
     </>
   )
 }
