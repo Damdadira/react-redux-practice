@@ -15,4 +15,5 @@ function CounterContainer(){
 
   const dispatch = useDispatch();
 
+  //6장 리덕스. > 5.카운터 구현하기
 }
