@@ -12,6 +12,12 @@
 </div>
 <br/>
 
+### 🧩 설치한 패키지
+```bash
+npm install @reduxjs/toolkit react-redux
+```
+<br/>
+
 ### 🎯 실행 방법
 
 - **Node.js 18 이상 권장**
