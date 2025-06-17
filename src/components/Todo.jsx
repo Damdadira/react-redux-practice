@@ -1,5 +1,4 @@
 import { memo, useState } from 'react';
-import todos from '../modules/todo';
 
 const TodoItem = memo(function TodoItem({ todo, onToggle }){
   return(

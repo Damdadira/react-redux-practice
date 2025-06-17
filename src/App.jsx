@@ -1,4 +1,3 @@
-import React from 'react'
 // import Exercise from './Exercise'
 import CounterContainer from './containers/CounterComtainer'
 import TodosContainer from './containers/TodosContainer'

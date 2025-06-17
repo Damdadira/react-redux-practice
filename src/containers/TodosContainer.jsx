@@ -1,4 +1,3 @@
-import React, { useCallback } from 'react';
 import { connect } from 'react-redux';
 import Todos from '../components/Todo';
 import { addTodo, toggleTodo } from '../modules/todo';

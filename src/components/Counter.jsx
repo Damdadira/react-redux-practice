@@ -1,5 +1,3 @@
-import React from 'react';
-
 function Counter({number, diff, onIncrease, onDecrease, onSetDiff}){
   const onChange = e => {
     onSetDiff(parseInt(e.target.value, 10));
@@ -15,8 +13,6 @@ function Counter({number, diff, onIncrease, onDecrease, onSetDiff}){
       </div>
     </div>
   )
-
-  //6장 리덕스 > 6.리덕스 개발자도구 적용하기 할 차례!!!!
 }
 
 export default Counter;
